@@ -13,12 +13,12 @@ FRESH! では [Frontrend Vol.10](https://speakerdeck.com/sutiwo/fresh-kuraiantos
 
 ### プロフィール画像
 
-![プロフィール画像](https://avatars1.githubusercontent.com/u/13046636)
+![プロフィール画像](https://raw.githubusercontent.com/insidefrontend/issue-2/d3c44544f20aca089ea81d9e6722febdb205b1d0/topics/seminars/sutiwo-fresh/slide/profile.jpg)
 
 ### 所属、肩書きなど（任意）
 
 - 所属: 株式会社サイバーエージェント
-- 肩書: メディア統括本部 > スタートアップカンパニー > FRESH! > Engineering Group
+- 肩書: 
 
 ### SNSs、ブログ等 (任意)
 
