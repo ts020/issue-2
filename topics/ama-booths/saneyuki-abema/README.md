@@ -14,6 +14,11 @@
 - [Tetsuharu OHZEKI](https://github.com/saneyuki/) (AbemaTV)
 - [Shota Kubota](https://github.com/kubosho) (AbemaTV)
 
+### プロフィール画像
+
+**Shota Kubota**
+
+![kuboshoのアイコン](https://i.imgur.com/7fiPa83.jpg)
 
 ## 事前確認
 
