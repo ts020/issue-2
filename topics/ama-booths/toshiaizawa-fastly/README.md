@@ -12,7 +12,7 @@
 
 ### プロフィール画像
 
-![プロフィール画像](...)
+![プロフィール画像](https://avatars.githubusercontent.com/toshiaizawa)
 
 ### 所属、肩書きなど（任意）
 
